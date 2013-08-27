@@ -1,6 +1,7 @@
 CfWeekThree::Application.routes.draw do
   #get "pages#home"
   resources :contacts
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
